@@ -9,4 +9,4 @@ if everything is all set
 run gen.bat with administrator
 
 files will export to certbot folder
-![App Screenshot](./imgja)
+![App Screenshot](./imgja.png)

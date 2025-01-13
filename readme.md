@@ -6,6 +6,7 @@ requirements
 * make port 80 is open
 
 if everything is all set
-run gen.bat
+run gen.bat with administrator
 
 files will export to certbot folder
+![App Screenshot](./imgja)
